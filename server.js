@@ -1,1 +1,3 @@
-const ONE=one
+const ONE = "one";
+const TWO = "two";
+export const THREE = "three";
