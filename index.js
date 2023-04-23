@@ -1,3 +1,3 @@
-import { THREE } from "./server";
-
-console.log(THREE);
+const ONE = "One";
+const TWO = "Two";
+const THREE = "Three";
