@@ -1,0 +1,1 @@
+const ONE=one
